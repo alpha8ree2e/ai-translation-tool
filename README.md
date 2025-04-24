@@ -1,15 +1,9 @@
----
-title: AI Translation Tool
-emoji: 🌍
-colorFrom: indigo
-colorTo: green
-sdk: gradio
-sdk_version: 5.26.0
-app_file: app.py
-license: mit
-short_description: Translate text with style, persona, scenario, and emotion.
----
+# 🌐 AI Translation Tool
 
-# AI Translation Agent
+A Gradio-powered app to translate text with persona, style, emotion, and scenario control.
 
-This Gradio app allows you to translate text with personalized parameters such as persona, style, scenario, and emotion.
+👉 [Try the live demo](https://huggingface.co/spaces/8ree2e/ai-translation-tool)
+
+## Features
+- 9 Languages supported
+- Persona + Style + Scenario + Emotion customization
